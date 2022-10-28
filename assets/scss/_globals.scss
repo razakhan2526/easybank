@@ -17,7 +17,6 @@ body{
 }
 
 a, a:visited, a:hover{
-    color: $GrayishBlue;
     text-decoration: none;
 }
 
@@ -47,4 +46,13 @@ button, .button {
     border: 0px;
     color: $White;
     font-weight: 400;
+}
+
+// Visibility
+.hide-for-mobile{
+    // hide for tablet and mobile
+}
+
+.hide-for-desktop{
+    // hide for desktop and widths 
 }
